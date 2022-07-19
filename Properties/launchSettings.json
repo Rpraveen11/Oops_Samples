@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Profile 1": {
+      "commandName": "Executable",
+      "executablePath": "E:\\Visual Studio\\Basic_Train\\Oops_Concepts.csproj.user",
+      "workingDirectory": "E:\\Visual Studio",
+      "nativeDebugging": true
+    }
+  }
+}
